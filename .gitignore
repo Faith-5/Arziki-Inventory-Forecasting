@@ -46,6 +46,7 @@ Thumbs.db
 
 # Keep sample dataset
 !/data/sample_data/
+!/data/sample_data/**
 
 # -----------------------------
 # Model Files

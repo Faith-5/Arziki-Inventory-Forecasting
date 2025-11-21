@@ -1,0 +1,175 @@
+Product Name,Category,Date,Units Sold,Stock on Hand,Unit Cost,Selling Price,Supplier Lead Time
+Indomie Noodles,Food & Beverages,2024-09-01,145,2500,80,120,3
+Golden Penny Semovita,Food & Beverages,2024-09-01,87,1800,450,650,7
+Dangote Sugar 1kg,Food & Beverages,2024-09-01,120,2200,850,1200,5
+Peak Milk Powder,Food & Beverages,2024-09-01,95,1500,1800,2500,7
+Honeywell Wheat,Food & Beverages,2024-09-01,65,1200,900,1350,7
+Golden Penny Spaghetti,Food & Beverages,2024-09-01,110,1900,420,600,5
+Mama Gold Rice 50kg,Food & Beverages,2024-09-01,45,800,32000,45000,10
+Gino Tomato Paste,Food & Beverages,2024-09-01,78,1600,250,350,5
+Maggi Seasoning Cubes,Food & Beverages,2024-09-01,135,2800,180,250,3
+Knorr Chicken Cubes,Food & Beverages,2024-09-01,125,2600,200,280,3
+Groundnut Oil 4L,Food & Beverages,2024-09-01,55,900,4500,6500,7
+Palm Oil 4L,Food & Beverages,2024-09-01,68,1100,3800,5500,7
+Milo Drink 400g,Beverages,2024-09-01,72,1400,1200,1700,7
+Bournvita 500g,Beverages,2024-09-01,65,1300,1300,1800,7
+Coca Cola 50cl,Beverages,2024-09-01,180,3500,180,300,2
+Pepsi 50cl,Beverages,2024-09-01,165,3200,180,300,2
+Fanta 50cl,Beverages,2024-09-01,155,3000,180,300,2
+Sprite 50cl,Beverages,2024-09-01,145,2900,180,300,2
+Maltina 33cl,Beverages,2024-09-01,98,1800,200,350,3
+Chi Exotic Juice 1L,Beverages,2024-09-01,85,1500,450,650,5
+Five Alive Pulpy Orange,Beverages,2024-09-01,92,1650,380,550,5
+Hollandia Yoghurt 1L,Dairy,2024-09-01,67,1200,650,900,2
+Dano Milk Powder,Dairy,2024-09-01,58,1000,1900,2700,7
+Peak Evaporated Milk,Dairy,2024-09-01,88,1700,420,600,5
+Cowbell Milk Powder,Dairy,2024-09-01,75,1400,1750,2500,7
+Three Crowns Milk,Dairy,2024-09-01,82,1550,1650,2350,7
+Dettol Soap 65g,Personal Care,2024-09-01,115,2100,180,280,5
+Lux Soap 90g,Personal Care,2024-09-01,105,2000,150,250,5
+Imperial Leather Soap,Personal Care,2024-09-01,95,1800,200,320,5
+Colgate Toothpaste 75ml,Personal Care,2024-09-01,88,1650,450,650,7
+Close Up Toothpaste,Personal Care,2024-09-01,82,1600,420,600,7
+Pepsodent Toothpaste,Personal Care,2024-09-01,78,1550,380,550,7
+Premier Cool Bathing Soap,Personal Care,2024-09-01,125,2300,120,200,5
+Omo Washing Powder 500g,Household,2024-09-01,92,1750,580,850,7
+Ariel Washing Powder 500g,Household,2024-09-01,85,1680,620,900,7
+Sunlight Detergent 500g,Household,2024-09-01,98,1850,520,750,7
+Morning Fresh Liquid 400ml,Household,2024-09-01,72,1400,380,550,7
+Harpic Toilet Cleaner,Household,2024-09-01,65,1250,520,750,7
+Hypo Bleach 1L,Household,2024-09-01,88,1700,180,280,5
+Air Freshener Spray,Household,2024-09-01,75,1450,450,650,7
+Paracetamol Tablets,Health,2024-09-01,145,2800,50,100,5
+Vitamin C Tablets,Health,2024-09-01,68,1300,280,450,7
+Germicide Antiseptic,Health,2024-09-01,55,1050,380,550,7
+Plaster Strip Pack,Health,2024-09-01,48,950,180,300,7
+Tissue Paper Roll 10s,Household,2024-09-01,110,2050,850,1200,5
+Serviette Napkins,Household,2024-09-01,95,1800,320,500,5
+Bic Biro Blue,Stationery,2024-09-01,185,3600,30,50,5
+Exercise Book 60 Leaves,Stationery,2024-09-01,125,2400,180,300,7
+A4 Paper Ream,Stationery,2024-09-01,42,800,2800,4000,10
+Sliced Bread Butterkist,Bakery,2024-09-01,156,1200,550,800,1
+Indomie Noodles,Food & Beverages,2024-09-02,152,2348,80,120,3
+Golden Penny Semovita,Food & Beverages,2024-09-02,91,1713,450,650,7
+Dangote Sugar 1kg,Food & Beverages,2024-09-02,128,2080,850,1200,5
+Peak Milk Powder,Food & Beverages,2024-09-02,101,1405,1800,2500,7
+Honeywell Wheat,Food & Beverages,2024-09-02,70,1135,900,1350,7
+Golden Penny Spaghetti,Food & Beverages,2024-09-02,115,1790,420,600,5
+Mama Gold Rice 50kg,Food & Beverages,2024-09-02,48,755,32000,45000,10
+Gino Tomato Paste,Food & Beverages,2024-09-02,82,1522,250,350,5
+Maggi Seasoning Cubes,Food & Beverages,2024-09-02,142,2665,180,250,3
+Knorr Chicken Cubes,Food & Beverages,2024-09-02,131,2475,200,280,3
+Groundnut Oil 4L,Food & Beverages,2024-09-02,58,845,4500,6500,7
+Palm Oil 4L,Food & Beverages,2024-09-02,72,1042,3800,5500,7
+Milo Drink 400g,Beverages,2024-09-02,76,1328,1200,1700,7
+Bournvita 500g,Beverages,2024-09-02,68,1235,1300,1800,7
+Coca Cola 50cl,Beverages,2024-09-02,188,3320,180,300,2
+Pepsi 50cl,Beverages,2024-09-02,172,3035,180,300,2
+Fanta 50cl,Beverages,2024-09-02,162,2845,180,300,2
+Sprite 50cl,Beverages,2024-09-02,151,2755,180,300,2
+Maltina 33cl,Beverages,2024-09-02,102,1702,200,350,3
+Chi Exotic Juice 1L,Beverages,2024-09-02,88,1415,450,650,5
+Five Alive Pulpy Orange,Beverages,2024-09-02,96,1558,380,550,5
+Hollandia Yoghurt 1L,Dairy,2024-09-02,71,1133,650,900,2
+Dano Milk Powder,Dairy,2024-09-02,61,942,1900,2700,7
+Peak Evaporated Milk,Dairy,2024-09-02,92,1612,420,600,5
+Cowbell Milk Powder,Dairy,2024-09-02,79,1325,1750,2500,7
+Three Crowns Milk,Dairy,2024-09-02,86,1468,1650,2350,7
+Dettol Soap 65g,Personal Care,2024-09-02,120,1985,180,280,5
+Lux Soap 90g,Personal Care,2024-09-02,110,1895,150,250,5
+Imperial Leather Soap,Personal Care,2024-09-02,99,1705,200,320,5
+Colgate Toothpaste 75ml,Personal Care,2024-09-02,92,1562,450,650,7
+Close Up Toothpaste,Personal Care,2024-09-02,86,1518,420,600,7
+Pepsodent Toothpaste,Personal Care,2024-09-02,82,1472,380,550,7
+Premier Cool Bathing Soap,Personal Care,2024-09-02,130,2175,120,200,5
+Omo Washing Powder 500g,Household,2024-09-02,96,1658,580,850,7
+Ariel Washing Powder 500g,Household,2024-09-02,89,1595,620,900,7
+Sunlight Detergent 500g,Household,2024-09-02,102,1752,520,750,7
+Morning Fresh Liquid 400ml,Household,2024-09-02,76,1328,380,550,7
+Harpic Toilet Cleaner,Household,2024-09-02,68,1185,520,750,7
+Hypo Bleach 1L,Household,2024-09-02,92,1612,180,280,5
+Air Freshener Spray,Household,2024-09-02,79,1375,450,650,7
+Paracetamol Tablets,Health,2024-09-02,151,2655,50,100,5
+Vitamin C Tablets,Health,2024-09-02,71,1232,280,450,7
+Germicide Antiseptic,Health,2024-09-02,58,995,380,550,7
+Plaster Strip Pack,Health,2024-09-02,51,902,180,300,7
+Tissue Paper Roll 10s,Household,2024-09-02,115,1940,850,1200,5
+Serviette Napkins,Household,2024-09-02,99,1705,320,500,5
+Bic Biro Blue,Stationery,2024-09-02,192,3415,30,50,5
+Exercise Book 60 Leaves,Stationery,2024-09-02,130,2275,180,300,7
+A4 Paper Ream,Stationery,2024-09-02,45,758,2800,4000,10
+Sliced Bread Butterkist,Bakery,2024-09-02,162,1044,550,800,1
+Indomie Noodles,Food & Beverages,2024-09-03,148,2196,80,120,3
+Golden Penny Semovita,Food & Beverages,2024-09-03,88,1622,450,650,7
+Dangote Sugar 1kg,Food & Beverages,2024-09-03,125,1952,850,1200,5
+Peak Milk Powder,Food & Beverages,2024-09-03,98,1304,1800,2500,7
+Honeywell Wheat,Food & Beverages,2024-09-03,68,1065,900,1350,7
+Golden Penny Spaghetti,Food & Beverages,2024-09-03,112,1675,420,600,5
+Mama Gold Rice 50kg,Food & Beverages,2024-09-03,46,707,32000,45000,10
+Gino Tomato Paste,Food & Beverages,2024-09-03,80,1440,250,350,5
+Maggi Seasoning Cubes,Food & Beverages,2024-09-03,138,2523,180,250,3
+Knorr Chicken Cubes,Food & Beverages,2024-09-03,128,2344,200,280,3
+Groundnut Oil 4L,Food & Beverages,2024-09-03,56,787,4500,6500,7
+Palm Oil 4L,Food & Beverages,2024-09-03,70,970,3800,5500,7
+Milo Drink 400g,Beverages,2024-09-03,74,1252,1200,1700,7
+Bournvita 500g,Beverages,2024-09-03,66,1167,1300,1800,7
+Coca Cola 50cl,Beverages,2024-09-03,185,3132,180,300,2
+Pepsi 50cl,Beverages,2024-09-03,169,2863,180,300,2
+Fanta 50cl,Beverages,2024-09-03,158,2683,180,300,2
+Sprite 50cl,Beverages,2024-09-03,148,2604,180,300,2
+Maltina 33cl,Beverages,2024-09-03,100,1600,200,350,3
+Chi Exotic Juice 1L,Beverages,2024-09-03,86,1327,450,650,5
+Five Alive Pulpy Orange,Beverages,2024-09-03,94,1462,380,550,5
+Hollandia Yoghurt 1L,Dairy,2024-09-03,69,1062,650,900,2
+Dano Milk Powder,Dairy,2024-09-03,59,881,1900,2700,7
+Peak Evaporated Milk,Dairy,2024-09-03,90,1520,420,600,5
+Cowbell Milk Powder,Dairy,2024-09-03,77,1246,1750,2500,7
+Three Crowns Milk,Dairy,2024-09-03,84,1382,1650,2350,7
+Dettol Soap 65g,Personal Care,2024-09-03,118,1865,180,280,5
+Lux Soap 90g,Personal Care,2024-09-03,108,1785,150,250,5
+Imperial Leather Soap,Personal Care,2024-09-03,97,1606,200,320,5
+Colgate Toothpaste 75ml,Personal Care,2024-09-03,90,1470,450,650,7
+Close Up Toothpaste,Personal Care,2024-09-03,84,1432,420,600,7
+Pepsodent Toothpaste,Personal Care,2024-09-03,80,1390,380,550,7
+Premier Cool Bathing Soap,Personal Care,2024-09-03,128,2045,120,200,5
+Omo Washing Powder 500g,Household,2024-09-03,94,1562,580,850,7
+Ariel Washing Powder 500g,Household,2024-09-03,87,1506,620,900,7
+Sunlight Detergent 500g,Household,2024-09-03,100,1650,520,750,7
+Morning Fresh Liquid 400ml,Household,2024-09-03,74,1252,380,550,7
+Harpic Toilet Cleaner,Household,2024-09-03,66,1117,520,750,7
+Hypo Bleach 1L,Household,2024-09-03,90,1520,180,280,5
+Air Freshener Spray,Household,2024-09-03,77,1296,450,650,7
+Paracetamol Tablets,Health,2024-09-03,148,2504,50,100,5
+Vitamin C Tablets,Health,2024-09-03,69,1161,280,450,7
+Germicide Antiseptic,Health,2024-09-03,56,937,380,550,7
+Plaster Strip Pack,Health,2024-09-03,49,851,180,300,7
+Tissue Paper Roll 10s,Household,2024-09-03,112,1825,850,1200,5
+Serviette Napkins,Household,2024-09-03,97,1606,320,500,5
+Bic Biro Blue,Stationery,2024-09-03,189,3223,30,50,5
+Exercise Book 60 Leaves,Stationery,2024-09-03,128,2145,180,300,7
+A4 Paper Ream,Stationery,2024-09-03,43,713,2800,4000,10
+Sliced Bread Butterkist,Bakery,2024-09-03,159,882,550,800,1
+Indomie Noodles,Food & Beverages,2024-09-04,155,2048,80,120,3
+Golden Penny Semovita,Food & Beverages,2024-09-04,93,1534,450,650,7
+Dangote Sugar 1kg,Food & Beverages,2024-09-04,132,1827,850,1200,5
+Peak Milk Powder,Food & Beverages,2024-09-04,103,1206,1800,2500,7
+Honeywell Wheat,Food & Beverages,2024-09-04,72,997,900,1350,7
+Golden Penny Spaghetti,Food & Beverages,2024-09-04,118,1563,420,600,5
+Mama Gold Rice 50kg,Food & Beverages,2024-09-04,50,661,32000,45000,10
+Gino Tomato Paste,Food & Beverages,2024-09-04,85,1360,250,350,5
+Maggi Seasoning Cubes,Food & Beverages,2024-09-04,145,2385,180,250,3
+Knorr Chicken Cubes,Food & Beverages,2024-09-04,135,2216,200,280,3
+Groundnut Oil 4L,Food & Beverages,2024-09-04,61,731,4500,6500,7
+Palm Oil 4L,Food & Beverages,2024-09-04,75,900,3800,5500,7
+Milo Drink 400g,Beverages,2024-09-04,79,1178,1200,1700,7
+Bournvita 500g,Beverages,2024-09-04,71,1101,1300,1800,7
+Coca Cola 50cl,Beverages,2024-09-04,195,2947,180,300,2
+Pepsi 50cl,Beverages,2024-09-04,178,2694,180,300,2
+Fanta 50cl,Beverages,2024-09-04,167,2525,180,300,2
+Sprite 50cl,Beverages,2024-09-04,156,2456,180,300,2
+Maltina 33cl,Beverages,2024-09-04,106,1500,200,350,3
+Chi Exotic Juice 1L,Beverages,2024-09-04,91,1241,450,650,5
+Five Alive Pulpy Orange,Beverages,2024-09-04,99,1368,380,550,5
+Hollandia Yoghurt 1L,Dairy,2024-09-04,74,993,650,900,2
+Dano Milk Powder,Dairy,2024-09-04,63,822,1900,2700,7
+Peak Evaporated Milk,Dairy,2024-09-04,95,1430,420,600,5
