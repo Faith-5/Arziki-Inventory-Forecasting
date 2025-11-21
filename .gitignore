@@ -1,0 +1,136 @@
+# -----------------------------
+# Python Cache
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.pickle
+*.joblib
+
+# -----------------------------
+# Virtual Environments
+# -----------------------------
+venv/
+env/
+.venv/
+ENV/
+
+# -----------------------------
+# OS / Editor Files
+# -----------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VSCode
+.vscode/
+.settings/
+
+# PyCharm
+.idea/
+
+# -----------------------------
+# Data Files
+# -----------------------------
+/data/raw/
+/data/processed/
+/data/interim/
+/data/temp/
+/data/uploads/
+/data/*.csv
+*.csv
+
+# Keep sample dataset
+!/data/sample_data/
+
+# -----------------------------
+# Model Files
+# -----------------------------
+/models/
+*.h5
+*.pt
+*.pth
+*.model
+
+# Prophet model files
+*.json
+*.bin
+
+# -----------------------------
+# Output Files
+# -----------------------------
+/output/
+output/*
+charts/
+*.png
+*.jpg
+*.jpeg
+
+# -----------------------------
+# Logs
+# -----------------------------
+logs/
+*.log
+
+# -----------------------------
+# Streamlit / HF Space
+# -----------------------------
+.streamlit/
+**/.streamlit/*
+hf_cache/
+huggingface/
+.cache/
+.pkl
+
+# -----------------------------
+# Temporary Files
+# -----------------------------
+tmp/
+temp/
+*.tmp
+
+# -----------------------------
+# Notebooks
+# -----------------------------
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# -----------------------------
+# Build / Packaging
+# -----------------------------
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+# Python Environment Files
+# -----------------------------
+pip-log.txt
+pythonenv*
+*.env
+.env
+env.bak
+
+# -----------------------------
+# Node (if frontend added later)
+# -----------------------------
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# -----------------------------
+# Local secrets (if any)
+# -----------------------------
+secrets.json
+config.yaml
+*.key
+*.env.local
+
+# -----------------------------
+# Ignore app-level caches
+# -----------------------------
+app.db
